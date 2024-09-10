@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\services\\contrato\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\services\\contrato\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\services\\implementacion\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\services\\implementacion\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\services\\implementacion\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\services\\implementacion\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\services\\contrato\\idepartamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\services\\contrato\\idepartamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\dtos\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\dtos\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|c:\\users\\user\\onedrive\\escritorio\\sasf\\apiwebempleados\\apiwebempleados\\backapi_empresa\\backapi_empresa\\models\\usercrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1572E3-16A7-4EFD-92B6-C3400E57D909}|BackAPI_empresa\\BackAPI_empresa.csproj|solutionrelative:backapi_empresa\\models\\usercrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Services\\Contrato\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\Services\\Contrato\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Services\\Contrato\\IEmpleadoService.cs",
+              "RelativeToolTip": "BackAPI_empresa\\Services\\Contrato\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:18:23.933Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Program.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Program.cs",
+              "RelativeToolTip": "BackAPI_empresa\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:50:58.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Services\\Implementacion\\DepartamentoService.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\Services\\Implementacion\\DepartamentoService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Services\\Implementacion\\DepartamentoService.cs",
+              "RelativeToolTip": "BackAPI_empresa\\Services\\Implementacion\\DepartamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:31:27.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Models\\Departamento.cs",
+              "RelativeToolTip": "BackAPI_empresa\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:45:39.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\Utilidades\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BackAPI_empresa\\Utilidades\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:04:52.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\appsettings.json",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\appsettings.json",
+              "RelativeToolTip": "BackAPI_empresa\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T15:44:53.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Services\\Implementacion\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\Services\\Implementacion\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Services\\Implementacion\\EmpleadoService.cs",
+              "RelativeToolTip": "BackAPI_empresa\\Services\\Implementacion\\EmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:31:55.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDepartamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Services\\Contrato\\IDepartamentoService.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\Services\\Contrato\\IDepartamentoService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Services\\Contrato\\IDepartamentoService.cs",
+              "RelativeToolTip": "BackAPI_empresa\\Services\\Contrato\\IDepartamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:18:10.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartamentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\DTOs\\DepartamentoDTO.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\DTOs\\DepartamentoDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\DTOs\\DepartamentoDTO.cs",
+              "RelativeToolTip": "BackAPI_empresa\\DTOs\\DepartamentoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:57:00.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\DTOs\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\DTOs\\EmpleadoDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\DTOs\\EmpleadoDTO.cs",
+              "RelativeToolTip": "BackAPI_empresa\\DTOs\\EmpleadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:58:16.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsercrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Models\\UsercrudContext.cs",
+              "RelativeDocumentMoniker": "BackAPI_empresa\\Models\\UsercrudContext.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\SASF\\apiwebempleados\\apiwebempleados\\BackAPI_empresa\\BackAPI_empresa\\Models\\UsercrudContext.cs",
+              "RelativeToolTip": "BackAPI_empresa\\Models\\UsercrudContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:29:54.419Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
